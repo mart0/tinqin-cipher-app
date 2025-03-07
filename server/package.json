@@ -1,0 +1,22 @@
+{
+  "name": "tinqin-cipher-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mart0/tinqin-cipher-app.git"
+  },
+  "author": "Martin Marinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mart0/tinqin-cipher-app/issues"
+  },
+  "homepage": "https://github.com/mart0/tinqin-cipher-app#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
